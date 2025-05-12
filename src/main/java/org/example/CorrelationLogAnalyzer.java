@@ -1,3 +1,10 @@
+/**
+ * Correlation Log Analyzer Tool
+ *
+ * Author: Niran Peiris
+ * Created: May 2025
+ * Description: Parses WSO2 API Manager correlation logs to extract and report latency metrics.
+ */
 package org.example;
 
 import java.io.*;
