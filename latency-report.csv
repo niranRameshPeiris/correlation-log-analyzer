@@ -1,0 +1,7 @@
+CorrelationID|ResourcePath|BACKEND_LATENCY|ROUND_TRIP_LATENCY
+395dcb7a-b599-4752-ad9a-914bebecca72|/test/v1/token|6008|6021
+90a85bcb-ce36-42b8-bbbf-0bb06b94d93e|/test/v1/token|4009|4018
+94527064-4c9b-4386-872e-64c9ee38d2a0|/test/v1/token|2007|2017
+e3a028f2-90ae-4739-b44d-7d57326b949a|/test/v1/token|1011|1021
+cec12450-b717-4032-8a08-4f90b145fc78|/test/v1/timeout|6|27
+1cb7a2f2-be9a-411d-bdbc-4c371714d374|/test/v1/token|8|18
